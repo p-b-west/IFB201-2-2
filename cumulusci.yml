@@ -21,6 +21,6 @@ tasks:
             output: robot/IFB201-2/doc/IFB201-2_tests.html
 
 orgs:
-    dev:
+    scratch:
         days: 30
 
