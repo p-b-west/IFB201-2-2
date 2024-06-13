@@ -20,7 +20,3 @@ tasks:
             path: robot/IFB201-2/tests
             output: robot/IFB201-2/doc/IFB201-2_tests.html
 
-orgs:
-    scratch:
-        days: 30
-
