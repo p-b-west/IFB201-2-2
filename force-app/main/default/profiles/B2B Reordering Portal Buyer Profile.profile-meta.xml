@@ -10,14 +10,28 @@
         <layout>GH_Product_Category__c-GH Product Category Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>GH_Product_Line__c-GH Product Line Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>GH_Product_Type__c-GH Product Type Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>GH_Product__c-GH Product Layout</layout>
     </layoutAssignments>
     <tabVisibilities>
         <tab>GH_Product_Category__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>GH_Product_Line__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>GH_Product_Type__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>GH_Product__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>External Apps Login</userLicense>
