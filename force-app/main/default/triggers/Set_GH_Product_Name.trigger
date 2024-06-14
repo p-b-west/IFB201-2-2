@@ -1,4 +1,4 @@
-trigger Set_GH_Product_Name on GH_Product__c (before insert) {
+trigger Set_GH_Product_Name on GH_Product__c (before insert, before update) {
     
     Integer PRODUCT_NAME_LEN = 80;
     List<Id> lines_ids = new List<Id>();
